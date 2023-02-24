@@ -1,3 +1,3 @@
-# Web development assignment
+# Rental
 
 ✅ Link: https://soheeryu.github.io/Rental/
